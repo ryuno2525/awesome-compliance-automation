@@ -35,6 +35,7 @@ The public-facing website is based on the open-source [Directory Website Templat
 ## Gdpr
 
 - [Vanta GDPR Compliance Automation](https://www.vanta.com/products/gdpr) - A Vanta product module focused on GDPR compliance that helps organizations protect EU residents’ personal data, automate privacy controls, and demonstrate adherence to global privacy standards through continuous monitoring and evidence collection. ([Read more](/details/vanta-gdpr-compliance-automation.md)) `gdpr` `privacy`
+- [PolicyForge](https://policyforge-one.vercel.app) - Free privacy policy generator and compliance checker that auto-scans websites for privacy compliance across 10 criteria including GDPR, CCPA, cookie consent, and data retention policies. Features include an embeddable compliance badge, a free JSON API for compliance scoring, and a terms of service generator. `gdpr` `privacy` `free`
 
 ## Soc 2
 
